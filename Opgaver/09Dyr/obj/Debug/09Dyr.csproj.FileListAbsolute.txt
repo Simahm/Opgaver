@@ -1,1 +1,6 @@
 C:\Users\admin\Source\Repos\Opgaver\Opgaver\09Dyr\bin\Debug\09Dyr.exe.config
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\09Dyr\bin\Debug\09Dyr.exe
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\09Dyr\bin\Debug\09Dyr.pdb
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\09Dyr\obj\Debug\09Dyr.csprojResolveAssemblyReference.cache
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\09Dyr\obj\Debug\09Dyr.exe
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\09Dyr\obj\Debug\09Dyr.pdb

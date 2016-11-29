@@ -10,7 +10,7 @@ namespace _09Dyr
     {
         public override void SigNoget()
         {
-            Console.WriteLine("Jeg er en kat og hedder ");
+            Console.WriteLine("Jeg er en kat og hedder " + Navn);
         }
     }
 }
