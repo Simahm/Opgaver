@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09Dyr", "09Dyr\09Dyr.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07Arv", "07Arv\07Arv.csproj", "{D25652BC-44C3-46C1-9465-27BCFAF3DBB8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06Egenskaber2", "..\..\..\..\Documents\Visual Studio 2015\Projects\Egenskaber2\Egenskaber2\06Egenskaber2.csproj", "{1F5DDB2A-16C4-4C7B-8F81-FAD974A065DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D25652BC-44C3-46C1-9465-27BCFAF3DBB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D25652BC-44C3-46C1-9465-27BCFAF3DBB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D25652BC-44C3-46C1-9465-27BCFAF3DBB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F5DDB2A-16C4-4C7B-8F81-FAD974A065DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5DDB2A-16C4-4C7B-8F81-FAD974A065DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F5DDB2A-16C4-4C7B-8F81-FAD974A065DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5DDB2A-16C4-4C7B-8F81-FAD974A065DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
