@@ -14,9 +14,20 @@ namespace _08Polymorfi
             Elev e = new Elev() { Fornavn = "Hugo", Efternavn = "Ahm Bjerre", Klasselokale = "Brumbasserne" };
             Instruktør i = new Instruktør() { Fornavn = "Doctor", Efternavn = "Strange", NøgleId = 100 };
 
-            Console.WriteLine(p.Skriv());
+            List<Person> list = new List<Person>();
+            list.Add(p);
+            list.Add(e);
+            list.Add(i);
+
+            //Gør det samme som nedenfor...
+            foreach (var item in list)
+            {
+                Console.WriteLine(item.Skriv());
+            }
+
+            /*Console.WriteLine(p.Skriv());
             Console.WriteLine(e.Skriv());
-            Console.WriteLine(i.Skriv());
+            Console.WriteLine(i.Skriv());*/
 
             Console.ReadKey();
         }
