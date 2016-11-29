@@ -1,0 +1,6 @@
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\07Arv\bin\Debug\07Arv.exe.config
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\07Arv\bin\Debug\07Arv.exe
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\07Arv\bin\Debug\07Arv.pdb
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\07Arv\obj\Debug\07Arv.csprojResolveAssemblyReference.cache
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\07Arv\obj\Debug\07Arv.exe
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\07Arv\obj\Debug\07Arv.pdb
