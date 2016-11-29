@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02Titabel", "01Titabel\02Ti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08Polymorfi", "08Polymorfi\08Polymorfi.csproj", "{9B89A8B1-95B4-4FC9-B27D-49D795739025}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09Dyr", "09Dyr\09Dyr.csproj", "{5EF5525A-0774-4A6E-9CB4-BF495980A00B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9B89A8B1-95B4-4FC9-B27D-49D795739025}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B89A8B1-95B4-4FC9-B27D-49D795739025}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B89A8B1-95B4-4FC9-B27D-49D795739025}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EF5525A-0774-4A6E-9CB4-BF495980A00B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EF5525A-0774-4A6E-9CB4-BF495980A00B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EF5525A-0774-4A6E-9CB4-BF495980A00B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EF5525A-0774-4A6E-9CB4-BF495980A00B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
