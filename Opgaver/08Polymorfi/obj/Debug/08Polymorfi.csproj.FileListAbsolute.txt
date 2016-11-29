@@ -1,0 +1,5 @@
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\08Polymorfi\bin\Debug\08Polymorfi.exe.config
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\08Polymorfi\bin\Debug\08Polymorfi.exe
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\08Polymorfi\bin\Debug\08Polymorfi.pdb
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\08Polymorfi\obj\Debug\08Polymorfi.exe
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\08Polymorfi\obj\Debug\08Polymorfi.pdb

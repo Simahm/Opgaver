@@ -1,1 +1,6 @@
 C:\Users\admin\Source\Repos\Opgaver\Opgaver\01HelloWorld\bin\Debug\01HelloWorld.exe.config
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\01HelloWorld\bin\Debug\01HelloWorld.exe
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\01HelloWorld\bin\Debug\01HelloWorld.pdb
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\01HelloWorld\obj\Debug\01HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\01HelloWorld\obj\Debug\01HelloWorld.exe
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\01HelloWorld\obj\Debug\01HelloWorld.pdb
