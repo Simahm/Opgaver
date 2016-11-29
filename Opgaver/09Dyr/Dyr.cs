@@ -14,7 +14,8 @@ namespace _09Dyr
 
         public static Dyr TilfældigtDyr()
         {
-            string[] navne = System.IO.File.ReadAllLines("dyrenavne.txt");
+            string sti = @"X:\michell\dyrenavne.txt";
+            string[] navne = System.IO.File.ReadAllLines(sti);
             int index = rnd.Next(0, navne.Length);
             if (index % 2 == 0)
             {
