@@ -1,0 +1,5 @@
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\06Egenskaber2\bin\Debug\06Egenskaber2.exe.config
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\06Egenskaber2\bin\Debug\06Egenskaber2.exe
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\06Egenskaber2\bin\Debug\06Egenskaber2.pdb
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\06Egenskaber2\obj\Debug\06Egenskaber2.exe
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\06Egenskaber2\obj\Debug\06Egenskaber2.pdb
