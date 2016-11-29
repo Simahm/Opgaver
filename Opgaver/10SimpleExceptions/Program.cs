@@ -10,6 +10,27 @@ namespace _10SimpleExceptions
     {
         static void Main(string[] args)
         {
+            try
+            {
+                Run();
+            }
+            catch (FormatException ex)
+            {
+                //håndter ex...
+                throw;
+            }
+        }
+
+        private static void Run()
+        {
+            Console.WriteLine("Indtast 1. tal");
+            int tal1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Indtast 2. tal");
+            int tal2 = Convert.ToInt32(Console.ReadLine());
+            int res = tal1 + tal2;
+            Console.WriteLine("Reultatet er " + res);
+
+            Console.ReadKey();
         }
     }
 }

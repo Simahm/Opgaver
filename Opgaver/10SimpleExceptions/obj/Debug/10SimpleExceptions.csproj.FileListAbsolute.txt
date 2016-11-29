@@ -1,1 +1,6 @@
 C:\Users\admin\Source\Repos\Opgaver\Opgaver\10SimpleExceptions\bin\Debug\10SimpleExceptions.exe.config
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\10SimpleExceptions\bin\Debug\10SimpleExceptions.exe
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\10SimpleExceptions\bin\Debug\10SimpleExceptions.pdb
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\10SimpleExceptions\obj\Debug\10SimpleExceptions.csprojResolveAssemblyReference.cache
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\10SimpleExceptions\obj\Debug\10SimpleExceptions.exe
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\10SimpleExceptions\obj\Debug\10SimpleExceptions.pdb
