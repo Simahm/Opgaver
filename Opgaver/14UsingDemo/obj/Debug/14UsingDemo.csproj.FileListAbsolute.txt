@@ -1,0 +1,6 @@
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\14UsingDemo\bin\Debug\14UsingDemo.exe.config
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\14UsingDemo\bin\Debug\14UsingDemo.exe
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\14UsingDemo\bin\Debug\14UsingDemo.pdb
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\14UsingDemo\obj\Debug\14UsingDemo.csprojResolveAssemblyReference.cache
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\14UsingDemo\obj\Debug\14UsingDemo.exe
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\14UsingDemo\obj\Debug\14UsingDemo.pdb

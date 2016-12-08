@@ -1,0 +1,6 @@
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\CollectionsDemo\bin\Debug\CollectionsDemo.exe.config
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\CollectionsDemo\bin\Debug\CollectionsDemo.exe
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\CollectionsDemo\bin\Debug\CollectionsDemo.pdb
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\CollectionsDemo\obj\Debug\15CollectionsDemo.csprojResolveAssemblyReference.cache
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\CollectionsDemo\obj\Debug\CollectionsDemo.exe
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\CollectionsDemo\obj\Debug\CollectionsDemo.pdb
