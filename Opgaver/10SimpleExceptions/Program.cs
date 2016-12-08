@@ -16,8 +16,8 @@ namespace _10SimpleExceptions
             }
             catch (FormatException ex)
             {
-                //håndter ex...
-                throw;
+                Console.WriteLine("Der er sket følgende fejl: " + ex.Message);
+                Console.ReadKey();
             }
         }
 

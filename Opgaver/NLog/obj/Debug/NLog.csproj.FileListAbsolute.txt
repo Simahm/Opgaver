@@ -1,0 +1,1 @@
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\NLog\bin\Debug\NLog.exe.config
