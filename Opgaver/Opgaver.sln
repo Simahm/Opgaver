@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10SimpleExceptions", "10Sim
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11NLog", "NLog\11NLog.csproj", "{5F31D1BF-A050-4082-80D1-D06CE8F5600A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12InterfacesDemo", "12InterfacesDemo\12InterfacesDemo.csproj", "{1F40AF64-DAB5-4B7C-A1A0-BE8C1E87BCDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{5F31D1BF-A050-4082-80D1-D06CE8F5600A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F31D1BF-A050-4082-80D1-D06CE8F5600A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F31D1BF-A050-4082-80D1-D06CE8F5600A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F40AF64-DAB5-4B7C-A1A0-BE8C1E87BCDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F40AF64-DAB5-4B7C-A1A0-BE8C1E87BCDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F40AF64-DAB5-4B7C-A1A0-BE8C1E87BCDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F40AF64-DAB5-4B7C-A1A0-BE8C1E87BCDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

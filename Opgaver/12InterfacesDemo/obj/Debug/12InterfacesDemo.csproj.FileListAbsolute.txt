@@ -1,0 +1,6 @@
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\12InterfacesDemo\bin\Debug\12InterfacesDemo.exe.config
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\12InterfacesDemo\bin\Debug\12InterfacesDemo.exe
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\12InterfacesDemo\bin\Debug\12InterfacesDemo.pdb
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\12InterfacesDemo\obj\Debug\12InterfacesDemo.csprojResolveAssemblyReference.cache
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\12InterfacesDemo\obj\Debug\12InterfacesDemo.exe
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\12InterfacesDemo\obj\Debug\12InterfacesDemo.pdb
