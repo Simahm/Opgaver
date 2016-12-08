@@ -1,0 +1,6 @@
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\13Comparing\bin\Debug\13Comparing.exe.config
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\13Comparing\bin\Debug\13Comparing.exe
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\13Comparing\bin\Debug\13Comparing.pdb
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\13Comparing\obj\Debug\13Comparing.csprojResolveAssemblyReference.cache
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\13Comparing\obj\Debug\13Comparing.exe
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\13Comparing\obj\Debug\13Comparing.pdb
