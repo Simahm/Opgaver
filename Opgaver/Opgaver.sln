@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06Egenskaber2", "06Egenskab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10SimpleExceptions", "10SimpleExceptions\10SimpleExceptions.csproj", "{025EA194-EA8E-47A0-BE9A-CD1E38A42BAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLog", "NLog\NLog.csproj", "{5F31D1BF-A050-4082-80D1-D06CE8F5600A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11NLog", "NLog\11NLog.csproj", "{5F31D1BF-A050-4082-80D1-D06CE8F5600A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

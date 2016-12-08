@@ -1,0 +1,9 @@
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\NLog\bin\Debug\NLog.config
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\NLog\bin\Debug\NLog.exe.config
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\NLog\bin\Debug\NLog.exe
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\NLog\bin\Debug\NLog.pdb
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\NLog\bin\Debug\NLog.dll
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\NLog\bin\Debug\NLog.xml
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\NLog\obj\Debug\11NLog.csprojResolveAssemblyReference.cache
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\NLog\obj\Debug\NLog.exe
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\NLog\obj\Debug\NLog.pdb
