@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19FileWatcher", "19FileWatc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20PropertyChanged", "20PropertyChanged\20PropertyChanged.csproj", "{81732574-CD85-42A5-A845-B1FD570A07D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21ExtensionMethods", "21ExtensionMethods\21ExtensionMethods.csproj", "{92DC7C9F-8D4B-4040-8A6D-B11D2EF4041C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{81732574-CD85-42A5-A845-B1FD570A07D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81732574-CD85-42A5-A845-B1FD570A07D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81732574-CD85-42A5-A845-B1FD570A07D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92DC7C9F-8D4B-4040-8A6D-B11D2EF4041C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92DC7C9F-8D4B-4040-8A6D-B11D2EF4041C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92DC7C9F-8D4B-4040-8A6D-B11D2EF4041C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92DC7C9F-8D4B-4040-8A6D-B11D2EF4041C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
