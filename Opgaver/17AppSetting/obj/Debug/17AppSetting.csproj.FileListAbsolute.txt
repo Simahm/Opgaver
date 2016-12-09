@@ -1,0 +1,6 @@
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\17AppSetting\bin\Debug\17AppSetting.exe.config
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\17AppSetting\bin\Debug\17AppSetting.exe
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\17AppSetting\bin\Debug\17AppSetting.pdb
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\17AppSetting\obj\Debug\17AppSetting.csprojResolveAssemblyReference.cache
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\17AppSetting\obj\Debug\17AppSetting.exe
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\17AppSetting\obj\Debug\17AppSetting.pdb

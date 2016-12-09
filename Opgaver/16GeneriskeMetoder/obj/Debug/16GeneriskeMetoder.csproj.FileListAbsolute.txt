@@ -1,0 +1,6 @@
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\16GeneriskeMetoder\bin\Debug\16GeneriskeMetoder.exe.config
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\16GeneriskeMetoder\bin\Debug\16GeneriskeMetoder.exe
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\16GeneriskeMetoder\bin\Debug\16GeneriskeMetoder.pdb
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\16GeneriskeMetoder\obj\Debug\16GeneriskeMetoder.csprojResolveAssemblyReference.cache
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\16GeneriskeMetoder\obj\Debug\16GeneriskeMetoder.exe
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\16GeneriskeMetoder\obj\Debug\16GeneriskeMetoder.pdb
