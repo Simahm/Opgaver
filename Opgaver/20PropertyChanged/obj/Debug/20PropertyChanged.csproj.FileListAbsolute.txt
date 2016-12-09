@@ -1,0 +1,6 @@
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\20PropertyChanged\bin\Debug\20PropertyChanged.exe.config
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\20PropertyChanged\bin\Debug\20PropertyChanged.exe
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\20PropertyChanged\bin\Debug\20PropertyChanged.pdb
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\20PropertyChanged\obj\Debug\20PropertyChanged.csprojResolveAssemblyReference.cache
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\20PropertyChanged\obj\Debug\20PropertyChanged.exe
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\20PropertyChanged\obj\Debug\20PropertyChanged.pdb

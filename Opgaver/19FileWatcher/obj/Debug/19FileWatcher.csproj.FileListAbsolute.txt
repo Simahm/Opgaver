@@ -1,0 +1,6 @@
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\19FileWatcher\bin\Debug\19FileWatcher.exe.config
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\19FileWatcher\bin\Debug\19FileWatcher.exe
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\19FileWatcher\bin\Debug\19FileWatcher.pdb
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\19FileWatcher\obj\Debug\19FileWatcher.csprojResolveAssemblyReference.cache
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\19FileWatcher\obj\Debug\19FileWatcher.exe
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\19FileWatcher\obj\Debug\19FileWatcher.pdb
