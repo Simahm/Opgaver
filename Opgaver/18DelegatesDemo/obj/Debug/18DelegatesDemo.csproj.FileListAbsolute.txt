@@ -1,0 +1,6 @@
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\18DelegatesDemo\bin\Debug\18DelegatesDemo.exe.config
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\18DelegatesDemo\bin\Debug\18DelegatesDemo.exe
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\18DelegatesDemo\bin\Debug\18DelegatesDemo.pdb
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\18DelegatesDemo\obj\Debug\18DelegatesDemo.csprojResolveAssemblyReference.cache
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\18DelegatesDemo\obj\Debug\18DelegatesDemo.exe
+C:\Users\admin\Source\Repos\Opgaver\Opgaver\18DelegatesDemo\obj\Debug\18DelegatesDemo.pdb
